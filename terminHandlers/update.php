@@ -18,5 +18,5 @@ if(isset($_POST['usluga']) && isset($_POST['klijent'])
          echo '1';
      }
 }
-
+//vraca 1 ako je dobro
 ?>
