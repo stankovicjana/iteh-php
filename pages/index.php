@@ -95,7 +95,7 @@
       </div>
       <div class="button_div1">
         <button data-toggle="modal" data-target="#exampleModal" type="button" data-backdrop="static"
-          class="btn btn-secondary btn-lg btn-block">NOVA USLUGA</button>
+          class="btn btn-secondary btn-lg btn-block">DODAJ NOVU USLUGU</button>
       </div>
 
     </div>
